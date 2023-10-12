@@ -30,7 +30,7 @@ Google Play Store: [https://play.google.com/store/apps/details?id=com.quasarinte
 
 <h2 style="border-bottom:none; padding-top: 16px;">Screenshots</h2>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 8px;">
 <img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-1.png">
 
 <img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-2.png">
