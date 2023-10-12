@@ -1,44 +1,55 @@
-<h1 style="padding:20px 0 22px 0;">I'm a Full Stack Developer</h1>
+<div style="padding-top: 20px; padding-bottom: 20px;">
+  <img style="margin-right:16px" src="./assets/quasar-interval-timer-feature-graphic.png">
+</div>
 
-<p align="center">
- <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vuejs">
- <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
-<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img align="center" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+<h2 style="border-bottom:none;">About</h2>
+
+<p style="padding-bottom: 16px;">
+The Quasar Interval Timer is an app with timer functions to help you track the time of your workouts.
 </p>
 
-<p style="padding:20px 0 30px 0;">
-Hello, welcome to my Github profile! Here you'll find personal projects created by me and real work I've done for some clients. Currently I work with web projects using the Vue.js framework, Vuex and Vue Router to create front-end interfaces. On the back-end I use Node.js technologies with Express and MySQL in my projects. Other technologies are also used, but these are the main ones in all my projects.
-</p>
+<div>
+<h3>Features:</h3>
 
-<h2 style="padding:0 0 16px 0;">Projects I loved working on</h2>
+- Quick Workout Timer: Start a custom workout timer quickly for your exercise sessions.
 
-Here are some of my most notable projects:
+- Customizable Timer: Create custom timers according to your specific needs. Save and reuse these timers for added convenience.
 
-1. [**Brainy Logical | Web Development Agency**](https://github.com/gregdom/brainy-logical-spa)
+- Stopwatch with Lap Records: Use the stopwatch with the ability to record laps and easily track your progress.
 
-   > My website where I present my portfolio and offer web development services. Made with Vue, Vuex, Vue Router, Node, MySQL, etc.
+- Sound Notifications: Choose to enable or disable sound notifications to stay informed about elapsed time.
 
-2. [**YTBooster | Firefox Extension for YouTube**](https://github.com/gregdom/ytbooster-firefox-extension)
+- Runs in the Background: The Quasar Interval Timer continues to run in the background if a timer is active, allowing you to use other apps while monitoring your time.
 
-   > YTBooster adds new tools to YouTube, increasing productivity. Made with Vue, Vuex, Vue Router, Webpack, etc.
+- Clean and user-friendly design.
+</div>
 
-<h2 style="padding:30px 0 16px 0;">Contributions</h2>
+<h2 style="border-bottom:none;">Live preview</h2>
 
-Contributions are always welcome! If you want to contribute with improvements, bug fixes or new features, feel free to open a **pull request**. I will love working with you!
+Google Play Store: [https://play.google.com/store/apps/details?id=com.quasarintervaltimer.app](https://play.google.com/store/apps/details?id=com.quasarintervaltimer.app)
 
-<h2 style="padding:30px 0 16px 0;">Contact</h2>
+<h2 style="border-bottom:none; padding-top: 16px;">Screenshots</h2>
 
-You can find me here:
+<img style="margin-bottom:16px; width:100%; max-width:1360px;" src="./assets/quasar-interval-timer-smartphone-1.png">
 
-- **LinkedIn**: [/gregdom](https://www.linkedin.com/in/gregorydom/)
-- **Website**: [/brainylogical.com/contact](https://brainylogical.com/contact)
+<img style="margin-bottom:16px; width:100%; max-width:1360px;" src="./assets/quasar-interval-timer-smartphone-2.png">
 
-<br/>
+<img style="margin-bottom:16px; width:100%; max-width:1360px;" src="./assets/quasar-interval-timer-smartphone-3.png">
 
----
+<img style="margin-bottom:16px; width:100%; max-width:1360px;" src="./assets/quasar-interval-timer-smartphone-4.png">
 
-<p style="padding:30px 0 16px 0;">
-  Did you like my README? Give a ⭐️ to show your support! 🙌
-</p>
+<img style="margin-bottom:16px; width:100%; max-width:1360px;" src="./assets/quasar-interval-timer-smartphone-5.png">
+
+<h2 style="border-bottom:none;">Technologies and Tools</h2>
+
+- [Quasar Framework](https://quasar.dev/)
+- [Capacitor](https://capacitorjs.com/)
+- [Vue.JS](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
+- [Sass (SCSS)](https://sass-lang.com/)
+
+<h2>Contact me</h2>
+
+- [Linkedin](https://www.linkedin.com/in/gregorydom/)
+- [Github](https://github.com/gregdom)
