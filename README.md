@@ -30,15 +30,17 @@ Google Play Store: [https://play.google.com/store/apps/details?id=com.quasarinte
 
 <h2 style="border-bottom:none; padding-top: 16px;">Screenshots</h2>
 
-<img style="margin-bottom:16px; margin-right: 16px; width: 280px; float: left;" src="./assets/quasar-interval-timer-smartphone-1.png">
+<div style="display: flex;">
+<img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-1.png">
 
-<img style="margin-bottom:16px; margin-right: 16px; width: 280px; float: left;" src="./assets/quasar-interval-timer-smartphone-2.png">
+<img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-2.png">
 
-<img style="margin-bottom:16px; margin-right: 16px; width: 280px; float: left;" src="./assets/quasar-interval-timer-smartphone-3.png">
+<img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-3.png">
 
-<img style="margin-bottom:16px; margin-right: 16px; width: 280px; float: left;" src="./assets/quasar-interval-timer-smartphone-4.png">
+<img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-4.png">
 
 <img style="margin-bottom:16px; margin-right: 16px; width: 280px;" src="./assets/quasar-interval-timer-smartphone-5.png">
+</div>
 
 <h2 style="border-bottom:none;">Technologies and Tools</h2>
 
